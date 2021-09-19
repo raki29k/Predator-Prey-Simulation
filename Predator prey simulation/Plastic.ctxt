@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Plastic
+comment0.text=\r\n\ A\ simple\ model\ of\ plastic.\r\n\ Plastic\ represents\ the\ pollution\ in\ the\ sea.\ It\ does\ not\ move\ or\ die.\r\n\r\n\ @author\ Rakshika\ Kodeswaran\ and\ Adam\ Tlemsani\r\n\ @version\ 2021.03.03\r\n
+comment1.params=field\ location
+comment1.target=Plastic(Field,\ Location)
+comment1.text=\r\n\ Create\ new\ plastic.\r\n\ \r\n\ @param\ field\ The\ field\ currently\ occupied.\r\n\ @param\ location\ The\ location\ within\ the\ field.\r\n
+comment2.params=newLocation
+comment2.target=void\ setLocation(Location)
+comment2.text=\r\n\ Place\ the\ plastic\ at\ the\ new\ location\ in\ the\ given\ field.\r\n\ @param\ newLocation\ The\ plastic's\ new\ location.\r\n
+comment3.params=
+comment3.target=boolean\ isAlive()
+comment3.text=\r\n\ Check\ whether\ the\ plastic\ is\ alive\ or\ not.\r\n\ @return\ true\ if\ the\ plastic\ is\ still\ alive.\r\n
+comment4.params=newPlastic
+comment4.target=void\ act(java.util.List)
+comment5.params=
+comment5.target=void\ setDead()
+comment5.text=\r\n\ Indicate\ that\ the\ plastic\ is\ no\ longer\ alive.\r\n\ It\ is\ removed\ from\ the\ field.\r\n
+comment6.params=
+comment6.target=Location\ getLocation()
+comment6.text=\r\n\ Return\ the\ plastic's\ location.\r\n\ @return\ The\ plastic's\ location.\r\n
+comment7.params=
+comment7.target=Field\ getField()
+comment7.text=\r\n\ Return\ the\ plastic's\ field.\r\n\ @return\ Field\ the\ plastic's\ field.\r\n
+numComments=8

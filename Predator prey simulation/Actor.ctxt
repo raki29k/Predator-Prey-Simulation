@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Actor
+comment0.text=\r\n\ A\ class\ representing\ shared\ characteristics\ of\ actors.\r\n\r\n\ @author\ Rakshika\ Kodeswaran\ and\ Adam\ Tlemsani\r\n\ @version\ 2021.03.03\r\n
+comment1.params=newActors
+comment1.target=void\ act(java.util.List)
+comment1.text=\r\n\ Make\ this\ actor\ act\ -\ that\ is\:\ make\ it\ do\r\n\ whatever\ it\ wants/needs\ to\ do.\r\n\ @param\ \ newActors\ A\ list\ to\ receive\ new\ actors.\r\n
+comment2.params=
+comment2.target=boolean\ isAlive()
+comment2.text=\r\n\ Check\ whether\ the\ actor\ is\ alive\ or\ not.\r\n\ @return\ true\ if\ the\ actor\ is\ still\ alive.\r\n
+comment3.params=newLocation
+comment3.target=void\ setLocation(Location)
+comment3.text=\r\n\ Place\ the\ actor\ at\ the\ new\ location\ in\ the\ given\ field.\r\n\ @param\ newLocation\ The\ actor's\ new\ location.\r\n
+numComments=4

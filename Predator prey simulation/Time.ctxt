@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\r\n\ A\ class\ representing\ time.\ \r\n\ It\ keeps\ track\ of\ the\ time\ and\ whether\ it\ is\ day\ or\ night.\r\n\r\n\ @author\ Rakshika\ Kodeswaran\ and\ Adam\ Tlemsani\r\n\ @version\ 2021.03.03\r\n
+comment1.params=
+comment1.target=Time()
+comment1.text=\r\n\ Represent\ time\ in\ the\ simulator.\r\n
+comment2.params=
+comment2.target=boolean\ isNight()
+comment2.text=\r\n\ @return\ true\ if\ it\ is\ night,\ false\ otherwise.\r\n
+comment3.params=
+comment3.target=int\ getHours()
+comment3.text=\r\n\ @return\ the\ hours\ that\ have\ passed.\r\n
+comment4.params=step
+comment4.target=void\ incrementHour(int)
+comment4.text=\r\n\ Increase\ the\ hour\ as\ step\ increases.\ For\ one\ step\ an\ hour\ passes.\r\n\ When\ hour\ reaches\ 24,\ set\ to\ zero.\r\n\ @param\ step\ The\ step\ an\ actor\ takes.\r\n
+comment5.params=
+comment5.target=void\ setNight()
+comment5.text=\r\n\ Set\ the\ time\ between\ 9pm\ and\ 5am\ as\ night.\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ getTime()
+comment6.text=\r\n\ \ @return\ The\ string\ time\ for\ day\ or\ night.\r\n
+numComments=7

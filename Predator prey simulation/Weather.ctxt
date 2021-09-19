@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\r\n\ A\ class\ representing\ weather.\r\n\ It\ keeps\ track\ of\ the\ temperature\ and\ different\ weather\ conditions\r\n\ that\ can\ occur.\r\n\r\n\ @author\ Rakshika\ Kodeswaran\ and\ Adam\ Tlemsani\r\n\ @version\ 2021.03.03\r\n
+comment1.params=
+comment1.target=Weather()
+comment1.text=\r\n\ Create\ a\ weather\ object\ and\ randomly\ assign\ temperature\ \r\n\ to\ a\ value\ up\ to\ 30.\r\n
+comment2.params=
+comment2.target=void\ setCondition()
+comment2.text=\r\n\ Set\ the\ weather\ to\ one\ of\ four\ conditions\:\r\n\ \ \ \ sunny,\ raining,\ cloudy\ and\ normal.\r\n
+comment3.params=
+comment3.target=void\ setTemperature()
+comment3.text=\r\n\ Set\ the\ temperature\ according\ to\ each\ weather\ condition.\r\n
+comment4.params=
+comment4.target=int\ getTemperature()
+comment4.text=\r\n\ @return\ The\ temperature.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getCondition()
+comment5.text=\r\n\ @return\ The\ weather\ condition.\r\n
+comment6.params=hour
+comment6.target=void\ setWeather(int)
+comment6.text=\r\n\ Set\ and\ update\ the\ weather\ every\ 8\ hours.\r\n\ @param\ hour\ Every\ hour\ that\ passes\ in\ the\ simulation.\r\n
+numComments=7
